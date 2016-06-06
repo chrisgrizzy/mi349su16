@@ -2,6 +2,7 @@ Section 1 | About
 My name is Christopher Graham and I am currently a Junior attending Michigan State Universtiy. My major is Media and Information with a minor in Information Technology. I love challenges, and love to take advantage of new opportunities.  I believe my training, experience, will allow me to significantly contribute to your company's IT division. In reviewing the attached resume, you will note that I have acquired valuable experience in all facets of troubleshooting, installations, and maintenance for various desktop operations, hardware, and software. I possess a unique talent for delivering highly complex technical information into terms and concepts that the end users can readily grasp. Furthermore, I am multi-task oriented, enjoy a challenge, and continually stay abreast of the latest advancements in the IT field.If you are seeking an IT professional who has excellent people and problem solving skills and can easily provide optimum support to your operations, then please consider what I have to offer.
 
 
+
 Section 2 | Resume
 This section will give a summary of my education, previous work experience, and skills.
 
@@ -20,14 +21,18 @@ Understand and suggest improvements to the current process andWork closely with 
 
 Skills
 The following skills will be shown in a bar graph format that easily represents my skill level in each of the following skill sets. 
-
-
-Section 3 | Works
 • Photoshop
 • Lightroom
 • HTML5 
 • Final Cut Pro X
 • Adobe After Effects
+
+
+
+Section 3 | Works
+• Links to videos made via Vimeo and YouTube 
+• Links to websites made 
+• Links to photographs via flickr  
 
 
 
